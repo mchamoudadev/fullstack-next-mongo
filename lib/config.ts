@@ -1,2 +1,2 @@
-export const API_URL = process.env.NODE_ENV === 'production' ? 'fullstack-next-mongo-f5sxnoamc-mchamoudadev.vercel.app'
+export const API_URL = process.env.NODE_ENV === 'production' ? 'https://fullstack-next-mongo.vercel.app'
     : 'http://localhost:3000';
